@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 157.1 157.2" style="enable-background:new 0 0 157.1 157.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#path-7_1_);}
+	.st1{fill:none;stroke:#EAEAEA;}
+	.st2{fill:url(#path-9_1_);}
+	.st3{fill:none;stroke:#DDDDDD;stroke-width:0.94;stroke-opacity:0.5;}
+	.st4{fill:url(#path-23_1_);}
+	.st5{fill:none;stroke:url(#Triangle_1_);stroke-width:3.75;}
+	.st6{fill:none;stroke:url(#Triangle-2_1_);stroke-width:3.75;}
+	.st7{fill:none;stroke:url(#Triangle-3_1_);stroke-width:3.75;}
+</style>
+<title>smt2</title>
+<g id="Group-2">
+	<g id="Switch-bevel">
+		<ellipse cx="78.6" cy="78.6" rx="78.6" ry="78.6"/>
+		
+			<linearGradient id="path-7_1_" gradientUnits="userSpaceOnUse" x1="-836.5469" y1="5.4622" x2="-836.5469" y2="6.5023" gradientTransform="matrix(9.622049e-15 157.14 -157.17 9.623887e-15 1020.9152 131533.5625)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#F8F8F8"/>
+		</linearGradient>
+		<ellipse id="path-7" class="st0" cx="78.6" cy="78.6" rx="78.6" ry="78.6"/>
+		<ellipse class="st1" cx="78.6" cy="78.6" rx="78.1" ry="78.1"/>
+	</g>
+	<g id="Switch-inner">
+		<ellipse cx="78.6" cy="78.6" rx="67.4" ry="67.3"/>
+		
+			<linearGradient id="path-9_1_" gradientUnits="userSpaceOnUse" x1="-835.8948" y1="6.3876" x2="-835.8948" y2="7.3876" gradientTransform="matrix(8.247384e-15 134.69 -134.72 8.249221e-15 1007.2685 112665.2656)">
+			<stop  offset="0" style="stop-color:#F8F8F8"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<ellipse id="path-9" class="st2" cx="78.6" cy="78.6" rx="67.4" ry="67.3"/>
+		<ellipse class="st3" cx="78.6" cy="78.6" rx="66.9" ry="66.9"/>
+	</g>
+</g>
+<g id="Group-2-2">
+	<g id="Switch-inner-2">
+		<ellipse cx="78.6" cy="78.6" rx="67.4" ry="67.3"/>
+		
+			<linearGradient id="path-23_1_" gradientUnits="userSpaceOnUse" x1="-835.8948" y1="6.3876" x2="-835.8948" y2="7.3876" gradientTransform="matrix(8.247384e-15 134.69 -134.72 8.249221e-15 1007.2685 112665.2656)">
+			<stop  offset="0" style="stop-color:#F8F8F8"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<ellipse id="path-23" class="st4" cx="78.6" cy="78.6" rx="67.4" ry="67.3"/>
+		<ellipse class="st1" cx="78.6" cy="78.6" rx="66.9" ry="66.8"/>
+	</g>
+</g>
+<linearGradient id="Triangle_1_" gradientUnits="userSpaceOnUse" x1="-830.0829" y1="20.844" x2="-828.623" y2="19.4941" gradientTransform="matrix(3.559436e-15 58.13 -43.13 2.640951e-15 947.0899 48315.1406)">
+	<stop  offset="0" style="stop-color:#00FFC8"/>
+	<stop  offset="1" style="stop-color:#0072FF"/>
+</linearGradient>
+<polygon id="Triangle" class="st5" points="100.9,78.1 57.8,107.2 57.8,49.1 "/>
+<linearGradient id="Triangle-2_1_" gradientUnits="userSpaceOnUse" x1="-828.7147" y1="23.9012" x2="-827.0748" y2="22.3712" gradientTransform="matrix(3.100194e-15 50.63 -37.5 2.296213e-15 930.0096 42011.4102)">
+	<stop  offset="0" style="stop-color:#00FFC8"/>
+	<stop  offset="1" style="stop-color:#0072FF"/>
+</linearGradient>
+<polygon id="Triangle-2" class="st6" points="87.8,78.1 50.3,103.4 50.3,52.8 "/>
+<linearGradient id="Triangle-3_1_" gradientUnits="userSpaceOnUse" x1="-831.2777" y1="18.4994" x2="-829.8777" y2="17.2194" gradientTransform="matrix(4.018678e-15 65.63 -48.75 2.985077e-15 958.3709 54618.8672)">
+	<stop  offset="0" style="stop-color:#00FFC8"/>
+	<stop  offset="1" style="stop-color:#0072FF"/>
+</linearGradient>
+<polygon id="Triangle-3" class="st7" points="114,78.1 65.3,110.9 65.3,45.3 "/>
+</svg>
