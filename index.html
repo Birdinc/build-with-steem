@@ -378,7 +378,7 @@
         </div>
         <div class="col-md-3 col-sm-3 wow fadeInUp" data-wow-delay="0.3s">
             <div class="statstitle">ALEXA RANK</div>
-            <div class="statnumber">1,418</div>                                                    
+            <div class="statnumber">1,418</div>
         </div>
     </div>
   </div>
@@ -819,11 +819,25 @@
       </div>
     </div>
 
-    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.5.9/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyB8ab_oDNkP-hjgsZg0NbJiF1mFh2c8IVM",
+    authDomain: "build-with-steem.firebaseapp.com",
+    databaseURL: "https://build-with-steem.firebaseio.com",
+    projectId: "build-with-steem",
+    storageBucket: "build-with-steem.appspot.com",
+    messagingSenderId: "988220570884"
+  };
+  firebase.initializeApp(config);
+</script>
 
-    <!-- Plugin JavaScript -->
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Plugin JavaScript -->
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Contact form JavaScript -->
@@ -843,6 +857,8 @@
 
     <!-- Visualitzation adjustments -->
     <script src="js/3d-lines-animation.js"></script>
+
+
 
 
   </body>
