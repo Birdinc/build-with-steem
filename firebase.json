@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "build-with-steem",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
