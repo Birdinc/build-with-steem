@@ -62,7 +62,7 @@ section {
 .btn-primary {
   margin: 8px auto;
   background-color: white;
-  border-color: white; 
+  border-color: white;
   color: #004EFF !important;
   border-radius: 0 !important;
   box-shadow: 0px 0px 0px 0 transparent, 5px 5px 0 0 #004EFF;
@@ -74,14 +74,14 @@ section {
   .btn-primary:hover {
     background-color: #004EFF !important;
     border-color: #004EFF !important;
-    color: white !important; 
+    color: white !important;
     box-shadow: 0px 0px 0px 0 transparent, 7px 7px 0 0 #FFFFFF;}
 /*  .btn-primary:active, .btn-primary:focus {
     box-shadow: 0 0 0 0.2rem #004EFF !important; }*/
 
 .btn-info {
   background-color: #004EFF;
-  border-color: #004EFF; 
+  border-color: #004EFF;
   color: white !important;
   border-radius: 0 !important;
   box-shadow: 0px 0px 0px 0 transparent, 5px 5px 0 0 #FFFFFF;
@@ -93,14 +93,14 @@ section {
   .btn-info:hover {
     background-color: #004EFF !important;
     border-color: #004EFF !important;
-    color: white !important; 
+    color: white !important;
     box-shadow: 0px 0px 0px 0 transparent, 7px 7px 0 0 #FFFFFF;}
 /*  .btn-primary:active, .btn-primary:focus {
     box-shadow: 0 0 0 0.2rem #004EFF !important; }*/
 
 .btn-drk {
   background-color: white;
-  border-color: white; 
+  border-color: white;
   color: #004EFF !important;
   border-radius: 0 !important;
   box-shadow: 0px 0px 0px 0 transparent, 5px 5px 0 0 #004EFF;
@@ -112,7 +112,7 @@ section {
   .btn-drk:hover {
     background-color: white !important;
     border-color: white !important;
-    color: #004EFF !important; 
+    color: #004EFF !important;
     box-shadow: 0px 0px 0px 0 transparent, 7px 7px 0 0 #004EFF;}
 /*  .btn-primary:active, .btn-primary:focus {
     box-shadow: 0 0 0 0.2rem #004EFF !important; }*/
@@ -135,7 +135,7 @@ body {
   -webkit-tap-highlight-color: #004EFF !important; }
 
 #mainNav {
-  background-color: white; 
+  background-color: white;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);}
   #mainNav .navbar-toggler {
     font-size: 12px;
@@ -231,12 +231,12 @@ header.masthead {
 
 .service-heading {
   margin: 15px 0;
-  text-transform: none; 
+  text-transform: none;
 }
 
 #portfolio .portfolio-item {
   right: 0;
-  margin: 0 0 15px; 
+  margin: 0 0 15px;
     }
   #portfolio .portfolio-item .portfolio-link {
     position: relative;
@@ -256,7 +256,7 @@ header.masthead {
       opacity: 0;
       background: rgba(23, 31, 36, 0.9); }
       #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
-        opacity: 1; 
+        opacity: 1;
       }
       #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
         font-size: 20px;
@@ -277,7 +277,7 @@ header.masthead {
     margin: 0 auto;
     padding: 25px;
     text-align: center;
-    background-color: #fff; 
+    background-color: #fff;
   /*border: 1px solid #eee;*/
   }
     #portfolio .portfolio-item .portfolio-caption h4 {
